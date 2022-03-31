@@ -1,0 +1,14 @@
+.productsection {
+    width: 100% !important;
+    display: flex !important;
+    justify-content: space-evenly !important;
+    flex-wrap: wrap !important;
+    text-align: center !important;
+    gap: 30px !important;
+}
+
+
+.myClass {
+    /* background: red !important; */
+    width: 30% !important;
+}

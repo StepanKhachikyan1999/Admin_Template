@@ -1,0 +1,24 @@
+.nav_items {
+    display: grid !important;
+    width: 80% !important;
+    margin: 0 auto !important;
+    text-align: center !important;
+}
+.nav_items a  {
+    text-decoration: none !important;
+
+}
+
+.nav_items button  {
+    color: #616161 !important;
+}
+.nav_items button:hover  {
+    opacity: 0.8 !important;
+    color: #5E35B1 !important;
+    transition: .4s;
+}
+
+
+/* .nav_items:hover {
+    bac
+} */
